@@ -3,7 +3,7 @@
 
 Welcome to my GitHub profile!
 I'm a passionate developer with a love for building, learning, and exploring new technologies.
-I enjoy creating digital identities and personalized avatars for tech profiles.
+I enjoy creating something new!
 
 ### 🧑‍💻 About Me
 
