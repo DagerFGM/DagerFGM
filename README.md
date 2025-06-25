@@ -15,14 +15,14 @@ I enjoy creating digital identities and personalized avatars for tech profiles.
     - Go (deep dive)
     - JavaScript (basics)
 - **Interests:**
-  <img alt="DagerFGM" src="https://github-readme-stats.vercel.app/api?username=DagerFGM&show_icons=true&hide=stars,contribs&show=prs_merged&theme=tokyonight&bg_color=00000000" width="400" align="right">
     - Web \& Desktop applications
     - Open source projects
     - Clean code \& automation
 <hr>
 
 ### 🚀 Tech Stack
-
+  <img alt="DagerFGM" src="https://github-readme-stats.vercel.app/api?username=DagerFGM&show_icons=true&hide=stars,contribs&show=prs_merged&theme=tokyonight&bg_color=00000000" width="400" align="right">
+  
 | Language/Tool | Experience | Focus |
 | :-- | :-- | :-- |
 | C | ⭐ | Systems, Algorithms |
