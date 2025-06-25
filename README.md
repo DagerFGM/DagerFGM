@@ -1,5 +1,7 @@
 ## Hi there, I'm DagerFGM! 👋
-<img alt="DagerFGM" src="https://avatars.githubusercontent.com/u/217502297?v=4" width="300" align="right">
+<img alt="DagerFGM" src="https://avatars.githubusercontent.com/u/217502297?v=4" width="250" align="right">
+
+<img alt="DagerFGM" src="https://github-readme-stats.vercel.app/api?username=DagerFGM&show_icons=true&hide=stars,contribs&show=prs_merged&theme=tokyonight&bg_color=00000000" width="400" align="right">
 
 Welcome to my GitHub profile!
 I'm a passionate developer with a love for building, learning, and exploring new technologies.
@@ -21,7 +23,6 @@ I enjoy creating digital identities and personalized avatars for tech profiles.
 <hr>
 
 ### 🚀 Tech Stack
-  <img alt="DagerFGM" src="https://github-readme-stats.vercel.app/api?username=DagerFGM&show_icons=true&hide=stars,contribs&show=prs_merged&theme=tokyonight&bg_color=00000000" width="400" align="right">
   
 | Language/Tool | Experience | Focus |
 | :-- | :-- | :-- |
